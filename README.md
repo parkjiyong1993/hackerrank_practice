@@ -1,1 +1,1 @@
-# hackerrank_practice
+# hackerrank_study
