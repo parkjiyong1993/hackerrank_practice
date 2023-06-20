@@ -5,9 +5,10 @@
  */
 
 void miniMaxSum(vector<int> arr) {
-long long sum = 0; // long long to prevent overflow for large integers
+long long sum = 0; // long type to prevent overflow for large integers
 
 // Sort array using built-in sort function
+// ascending order 
 std::sort(arr.begin(), arr.end());
 
     // Calculate sum
