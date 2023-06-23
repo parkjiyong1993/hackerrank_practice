@@ -9,7 +9,7 @@
  */
 
 
-/ * 1. 2 loops with i = j+1 : comparison each 2 elements by 2 elements
+/* 1. 2 loops with i = j+1 : comparison each 2 elements by 2 elements
     2. Comparison? sometimes math operation is better
 */
 
