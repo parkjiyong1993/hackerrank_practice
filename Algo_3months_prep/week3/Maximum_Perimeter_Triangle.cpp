@@ -5,6 +5,8 @@
  * The function accepts INTEGER_ARRAY sticks as parameter.
  */
 
+/* time complexity : nlogn */
+
 vector<int> maximumPerimeterTriangle(vector<int> sticks) {
 
 sort(sticks.begin(), sticks.end());
